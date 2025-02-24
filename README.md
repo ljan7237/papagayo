@@ -110,6 +110,7 @@ Current Limitations/Todos:
  - Training/Hyper parameter optimization required for SOM, Autoencoder+Kalman Filter, ConvNet.
  - Data cleaning/preprocessing (training data is raw and captures ambient noise)
  - Experiment with Phase reconstruction.
+ - Testing 
 
 
 
