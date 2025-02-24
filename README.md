@@ -58,8 +58,13 @@ In this study, sets of Australian birdsong audio files were sourced from xeno-ca
 - Sample of Australian birdsong
 
 # Usage
+
+
 Given a trained Self Organizing Feature Map (See: train_som/train_som_net.ipynb used for training in Google Collab), trained Upsampler Convnet (upsampler/train_upsampler.ipynb, used in Google Collab) and a trained Autoencoder and Kalman Filter (trained locally using train_autoencoder/train_auto_encoder.py):
 
+## Install requirements 
+pip install -r requirements.txt
+(Note requirements work for MAC OS and M3 Chip. Other OSs not tested.)
 
 ## Process Audio: do stft, if performing stft on input data to reconstruct, save phase.
 python stft/stft.py --audio-dir path/to/audio --output-dir path/to/audio_slices/ --save-phase --num-workers 4
