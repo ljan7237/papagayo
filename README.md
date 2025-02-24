@@ -103,7 +103,7 @@ python autoregressor/autoregressor.py --initial-input path/to/starting_point_emb
 # Examples 
 See examples of audio produced by i) Timbre Transfer, ii) Upsampling and iii) Autoregression in examples/
 
-Current Limitations/Todos:
+# Current Limitations/Todos:
  - Although an Autoencoder is quick to train, it is a poor choice for next-state prediction as it has no long term dependendcies. Instead, use other architectures like a 3Dconv net (predcition given multiple past samples) or Transformer.
  - Experiment with different distance measures (Currently using Frobenius, try cosine similarity or Manhattan etc... for distance measures.)
  - Currently processing Mono. Modify for Stereo.
