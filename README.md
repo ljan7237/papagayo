@@ -110,6 +110,7 @@ See examples of audio produced by i) Timbre Transfer, ii) Upsampling and iii) Au
  - Training/Hyper parameter optimization required for SOM, Autoencoder+Kalman Filter, ConvNet.
  - Data cleaning/preprocessing (training data is raw and captures ambient noise)
  - Experiment with Phase reconstruction.
+ - Experiment with higher resolution slicing.
  - Testing 
 
 
