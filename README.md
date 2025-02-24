@@ -113,9 +113,7 @@ See examples of audio produced by i) Timbre Transfer, ii) Upsampling and iii) Au
  - Experiment with higher resolution slicing.
  - Testing 
 
-
-
-
-
+# Future
+Given the topological representation afforded by SOFMs, an application could be produced to allow users to "Draw a song". This could be a fun "instrument to play with.
 
 
