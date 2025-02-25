@@ -29,8 +29,8 @@ Australian birdsong recordings were sourced from [xeno-canto.org](https://www.xe
 
 To demonstrate intuitively how SOFMs can embed/encode audio, videos of songs processed by a SOFM trained on Australian Birdsong slices are provided to download here:
 
-### [Download Embedding Video Drum of Track (MP4)](https://github.com/ljan7237/papagayo/blob/main/examples/videos/drum.mp4)
-### [Download Embedding Video of Butcherbird Song (MP4)](https://github.com/ljan7237/papagayo/blob/main/examples/videos/butcherbird.mp4)
+### [Download Embedding Video Drum of Track (MP4)](https://raw.githubusercontent.com/ljan7237/papagayo/blob/main/examples/videos/drum.mp4)
+### [Download Embedding Video of Butcherbird Song (MP4)](https://raw.githubusercontent.com/ljan7237/papagayo/blob/main/examples/videos/butcherbird.mp4)
 
 ---
 
