@@ -152,7 +152,7 @@ python autoregressor/autoregressor.py --initial-input path/to/starting_point_emb
 ---
 
 # Examples  
-Audio samples from:  
+Generated audio samples from:  
 - Timbre Transfer  
 - Upsampling  
 - Autoregression  
